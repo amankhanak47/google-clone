@@ -1,0 +1,14 @@
+.opt{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+}
+.icon{
+    transform: scale(5);
+    margin: 50px;
+}
+.opt h1{
+    margin: 50px;
+    font-size: 100px;
+}
